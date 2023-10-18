@@ -1,0 +1,3796 @@
+{
+    "result": {
+        "query": ":filter:title:solidity*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "7.10"
+        },
+        "completions": {
+            "@total": "2",
+            "@computed": "2",
+            "@sent": "2",
+            "c": [
+                {
+                    "@sc": "111",
+                    "@dc": "107",
+                    "@oc": "111",
+                    "@id": "50804204",
+                    "text": ":filter:title:solidity"
+                },
+                {
+                    "@sc": "1",
+                    "@dc": "1",
+                    "@oc": "1",
+                    "@id": "50804205",
+                    "text": ":filter:title:soliditycheck"
+                }
+            ]
+        },
+        "hits": {
+            "@total": "108",
+            "@computed": "108",
+            "@sent": "108",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "2",
+                    "@id": "332265",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "153/5319",
+                                    "text": "Diego Marmsoler"
+                                },
+                                {
+                                    "@pid": "b/AchimDBrucker",
+                                    "text": "Achim D. Brucker"
+                                }
+                            ]
+                        },
+                        "title": "Isabelle/Solidity: A deep Embedding of Solidity in Isabelle/HOL.",
+                        "venue": "Arch. Formal Proofs",
+                        "volume": "2022",
+                        "year": "2022",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/afp/MarmsolerB22",
+                        "ee": "https://www.isa-afp.org/entries/Solidity.html",
+                        "url": "https://dblp.org/rec/journals/afp/MarmsolerB22"
+                    },
+                    "url": "URL#332265"
+                },
+                {
+                    "@score": "2",
+                    "@id": "590206",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "71/4081",
+                                    "text": "Anna Kobusinska"
+                                },
+                                {
+                                    "@pid": "319/8923",
+                                    "text": "Grzegorz Wilczynski"
+                                }
+                            ]
+                        },
+                        "title": "Blocked-based Solidity - a Service for Graphically Creating the Smart Contracts in Solidity Programming Language.",
+                        "venue": "HICSS",
+                        "pages": "1-10",
+                        "year": "2022",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/hicss/KobusinskaW22",
+                        "ee": "http://hdl.handle.net/10125/80229",
+                        "url": "https://dblp.org/rec/conf/hicss/KobusinskaW22"
+                    },
+                    "url": "URL#590206"
+                },
+                {
+                    "@score": "2",
+                    "@id": "619838",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "307/5359",
+                                    "text": "Kunjian Song"
+                                },
+                                {
+                                    "@pid": "307/5274",
+                                    "text": "Nedas Matulevicius"
+                                },
+                                {
+                                    "@pid": "25/6797",
+                                    "text": "Eddie B. de Lima Filho"
+                                },
+                                {
+                                    "@pid": "42/4311",
+                                    "text": "Lucas C. Cordeiro"
+                                }
+                            ]
+                        },
+                        "title": "ESBMC-Solidity: An SMT-Based Model Checker for Solidity Smart Contracts.",
+                        "venue": "ICSE-Companion",
+                        "pages": "65-69",
+                        "year": "2022",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icse/SongMFC22",
+                        "doi": "10.1145/3510454.3516855",
+                        "ee": "https://doi.org/10.1145/3510454.3516855",
+                        "url": "https://dblp.org/rec/conf/icse/SongMFC22"
+                    },
+                    "url": "URL#619838"
+                },
+                {
+                    "@score": "2",
+                    "@id": "1232270",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "307/5359",
+                                    "text": "Kunjian Song"
+                                },
+                                {
+                                    "@pid": "307/5274",
+                                    "text": "Nedas Matulevicius"
+                                },
+                                {
+                                    "@pid": "25/6797",
+                                    "text": "Eddie B. de Lima Filho"
+                                },
+                                {
+                                    "@pid": "42/4311",
+                                    "text": "Lucas C. Cordeiro"
+                                }
+                            ]
+                        },
+                        "title": "ESBMC-Solidity: An SMT-Based Model Checker for Solidity Smart Contracts.",
+                        "venue": "CoRR",
+                        "volume": "abs/2111.13117",
+                        "year": "2021",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2111-13117",
+                        "ee": "https://arxiv.org/abs/2111.13117",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2111-13117"
+                    },
+                    "url": "URL#1232270"
+                },
+                {
+                    "@score": "1",
+                    "@id": "2030",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "96/2615",
+                                "text": "Ye Liu"
+                            }
+                        },
+                        "title": "On security and reliability of smart contracts: the applications of dynamic specification mining on solidity",
+                        "year": "2023",
+                        "type": "Books and Theses",
+                        "access": "closed",
+                        "key": "phd/sg/Liu23",
+                        "doi": "10.32657/10356/168560",
+                        "ee": "https://doi.org/10.32657/10356/168560",
+                        "url": "https://dblp.org/rec/phd/sg/Liu23"
+                    },
+                    "url": "URL#2030"
+                },
+                {
+                    "@score": "1",
+                    "@id": "62370",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "249/5046",
+                                    "text": "Chaochen Shi"
+                                },
+                                {
+                                    "@pid": "98/2912-1",
+                                    "text": "Yong Xiang 0001"
+                                },
+                                {
+                                    "@pid": "18/11043",
+                                    "text": "Jiangshan Yu"
+                                },
+                                {
+                                    "@pid": "153/9985",
+                                    "text": "Keshav Sood"
+                                },
+                                {
+                                    "@pid": "44/7500",
+                                    "text": "Longxiang Gao"
+                                }
+                            ]
+                        },
+                        "title": "Machine translation-based fine-grained comments generation for solidity smart contracts.",
+                        "venue": "Inf. Softw. Technol.",
+                        "volume": "153",
+                        "pages": "107065",
+                        "year": "2023",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/infsof/ShiXYSG23",
+                        "doi": "10.1016/J.INFSOF.2022.107065",
+                        "ee": "https://doi.org/10.1016/j.infsof.2022.107065",
+                        "url": "https://dblp.org/rec/journals/infsof/ShiXYSG23"
+                    },
+                    "url": "URL#62370"
+                },
+                {
+                    "@score": "1",
+                    "@id": "76261",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "39/7078",
+                                    "text": "Changjing Wang"
+                                },
+                                {
+                                    "@pid": "231/3389",
+                                    "text": "Huiwen Jiang"
+                                },
+                                {
+                                    "@pid": "68/1041",
+                                    "text": "Yuxin Wang"
+                                },
+                                {
+                                    "@pid": "12/2491",
+                                    "text": "Qing Huang"
+                                },
+                                {
+                                    "@pid": "85/1986",
+                                    "text": "Zhengkang Zuo"
+                                }
+                            ]
+                        },
+                        "title": "Research on smart contract vulnerability detection method based on domain features of solidity contracts and attention mechanism.",
+                        "venue": "J. Intell. Fuzzy Syst.",
+                        "volume": "45",
+                        "number": "1",
+                        "pages": "1513-1525",
+                        "year": "2023",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/jifs/WangJWHZ23",
+                        "doi": "10.3233/JIFS-224489",
+                        "ee": "https://doi.org/10.3233/JIFS-224489",
+                        "url": "https://dblp.org/rec/journals/jifs/WangJWHZ23"
+                    },
+                    "url": "URL#76261"
+                },
+                {
+                    "@score": "1",
+                    "@id": "78861",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "323/8312",
+                                    "text": "Sophie Siestrup"
+                                },
+                                {
+                                    "@pid": "323/7312",
+                                    "text": "Benjamin Jainta"
+                                },
+                                {
+                                    "@pid": "37/2990",
+                                    "text": "Sen Cheng"
+                                },
+                                {
+                                    "@pid": "90/2371",
+                                    "text": "Ricarda I. Schubotz"
+                                }
+                            ]
+                        },
+                        "title": "Solidity Meets Surprise: Cerebral and Behavioral Effects of Learning from Episodic Prediction Errors.",
+                        "venue": "J. Cogn. Neurosci.",
+                        "volume": "35",
+                        "number": "2",
+                        "pages": "291-313",
+                        "year": "2023",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/jocn/SiestrupJCS23",
+                        "doi": "10.1162/JOCN_A_01948",
+                        "ee": "https://doi.org/10.1162/jocn_a_01948",
+                        "url": "https://dblp.org/rec/journals/jocn/SiestrupJCS23"
+                    },
+                    "url": "URL#78861"
+                },
+                {
+                    "@score": "1",
+                    "@id": "81781",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "47/3464",
+                                    "text": "Yilin Wang"
+                                },
+                                {
+                                    "@pid": "45/2913",
+                                    "text": "Xiangping Chen"
+                                },
+                                {
+                                    "@pid": "15/8391-2",
+                                    "text": "Yuan Huang 0002"
+                                },
+                                {
+                                    "@pid": "278/4470",
+                                    "text": "Hao-Nan Zhu"
+                                },
+                                {
+                                    "@pid": "28/9797",
+                                    "text": "Jing Bian"
+                                },
+                                {
+                                    "@pid": "z/ZibinZheng",
+                                    "text": "Zibin Zheng"
+                                }
+                            ]
+                        },
+                        "title": "An empirical study on real bug fixes from solidity smart contract projects.",
+                        "venue": "J. Syst. Softw.",
+                        "volume": "204",
+                        "pages": "111787",
+                        "year": "2023",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/jss/WangCHZBZ23",
+                        "doi": "10.1016/J.JSS.2023.111787",
+                        "ee": "https://doi.org/10.1016/j.jss.2023.111787",
+                        "url": "https://dblp.org/rec/journals/jss/WangCHZBZ23"
+                    },
+                    "url": "URL#81781"
+                },
+                {
+                    "@score": "1",
+                    "@id": "194280",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "351/5472",
+                                    "text": "Andrei Zhukov"
+                                },
+                                {
+                                    "@pid": "30/4648",
+                                    "text": "Vladimir Korkhov"
+                                }
+                            ]
+                        },
+                        "title": "SmartGraph: Static Analysis Tool for Solidity Smart Contracts.",
+                        "venue": "ICCSA",
+                        "pages": "584-598",
+                        "year": "2023",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/iccsa/ZhukovK23",
+                        "doi": "10.1007/978-3-031-37105-9_39",
+                        "ee": "https://doi.org/10.1007/978-3-031-37105-9_39",
+                        "url": "https://dblp.org/rec/conf/iccsa/ZhukovK23"
+                    },
+                    "url": "URL#194280"
+                },
+                {
+                    "@score": "1",
+                    "@id": "224990",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "348/9406",
+                                    "text": "Chihiro Kado"
+                                },
+                                {
+                                    "@pid": "95/8821",
+                                    "text": "Naoto Yanai"
+                                },
+                                {
+                                    "@pid": "194/7886",
+                                    "text": "Jason Paul Cruz"
+                                },
+                                {
+                                    "@pid": "49/139",
+                                    "text": "Shingo Okamura"
+                                }
+                            ]
+                        },
+                        "title": "An Empirical Study of Impact of Solidity Compiler Updates on Vulnerabilities.",
+                        "venue": "PerCom Workshops",
+                        "pages": "92-97",
+                        "year": "2023",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/percom/KadoYCO23",
+                        "doi": "10.1109/PERCOMWORKSHOPS56833.2023.10150389",
+                        "ee": "https://doi.org/10.1109/PerComWorkshops56833.2023.10150389",
+                        "url": "https://dblp.org/rec/conf/percom/KadoYCO23"
+                    },
+                    "url": "URL#224990"
+                },
+                {
+                    "@score": "1",
+                    "@id": "284811",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "348/9406",
+                                    "text": "Chihiro Kado"
+                                },
+                                {
+                                    "@pid": "95/8821",
+                                    "text": "Naoto Yanai"
+                                },
+                                {
+                                    "@pid": "194/7886",
+                                    "text": "Jason Paul Cruz"
+                                },
+                                {
+                                    "@pid": "247/1713",
+                                    "text": "Kyosuke Yamashita"
+                                },
+                                {
+                                    "@pid": "49/139",
+                                    "text": "Shingo Okamura"
+                                }
+                            ]
+                        },
+                        "title": "An Empirical Study of Impact of Solidity Compiler Updates on Vulnerabilities in Ethereum Smart Contracts.",
+                        "venue": "CoRR",
+                        "volume": "abs/2306.04250",
+                        "year": "2023",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2306-04250",
+                        "doi": "10.48550/ARXIV.2306.04250",
+                        "ee": "https://doi.org/10.48550/arXiv.2306.04250",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2306-04250"
+                    },
+                    "url": "URL#284811"
+                },
+                {
+                    "@score": "1",
+                    "@id": "304929",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "153/0735",
+                                    "text": "Lantian Li"
+                                },
+                                {
+                                    "@pid": "355/2572",
+                                    "text": "Yejian Liang"
+                                },
+                                {
+                                    "@pid": "89/7722",
+                                    "text": "Zhihao Liu"
+                                },
+                                {
+                                    "@pid": "04/10702",
+                                    "text": "Zhongxing Yu"
+                                }
+                            ]
+                        },
+                        "title": "Understanding Solidity Event Logging Practices in the Wild.",
+                        "venue": "CoRR",
+                        "volume": "abs/2308.12788",
+                        "year": "2023",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2308-12788",
+                        "doi": "10.48550/ARXIV.2308.12788",
+                        "ee": "https://doi.org/10.48550/arXiv.2308.12788",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2308-12788"
+                    },
+                    "url": "URL#304929"
+                },
+                {
+                    "@score": "1",
+                    "@id": "324507",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "233/3878",
+                                    "text": "Mantas Jurgelaitis"
+                                },
+                                {
+                                    "@pid": "64/5054",
+                                    "text": "Lina Ceponiene"
+                                },
+                                {
+                                    "@pid": "14/3591",
+                                    "text": "Rita Butkiene"
+                                }
+                            ]
+                        },
+                        "title": "Solidity Code Generation From UML State Machines in Model-Driven Smart Contract Development.",
+                        "venue": "IEEE Access",
+                        "volume": "10",
+                        "pages": "33465-33481",
+                        "year": "2022",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/access/JurgelaitisCB22",
+                        "doi": "10.1109/ACCESS.2022.3162227",
+                        "ee": "https://doi.org/10.1109/ACCESS.2022.3162227",
+                        "url": "https://dblp.org/rec/journals/access/JurgelaitisCB22"
+                    },
+                    "url": "URL#324507"
+                },
+                {
+                    "@score": "1",
+                    "@id": "395965",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "145/4398",
+                                    "text": "Zhenzhou Tian"
+                                },
+                                {
+                                    "@pid": "181/2690",
+                                    "text": "Jie Tian"
+                                },
+                                {
+                                    "@pid": "22/1280",
+                                    "text": "Zhongmin Wang"
+                                },
+                                {
+                                    "@pid": "78/1633-6",
+                                    "text": "Yanping Chen 0006"
+                                },
+                                {
+                                    "@pid": "34/3865",
+                                    "text": "Hong Xia"
+                                },
+                                {
+                                    "@pid": "169/7444",
+                                    "text": "Lingwei Chen"
+                                }
+                            ]
+                        },
+                        "title": "Landscape estimation of solidity version usage on Ethereum via version identification.",
+                        "venue": "Int. J. Intell. Syst.",
+                        "volume": "37",
+                        "number": "1",
+                        "pages": "450-477",
+                        "year": "2022",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/ijis/TianTWCXC22",
+                        "doi": "10.1002/INT.22633",
+                        "ee": "https://doi.org/10.1002/int.22633",
+                        "url": "https://dblp.org/rec/journals/ijis/TianTWCXC22"
+                    },
+                    "url": "URL#395965"
+                },
+                {
+                    "@score": "1",
+                    "@id": "430268",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "171/5109",
+                                    "text": "Andrea Di Sorbo"
+                                },
+                                {
+                                    "@pid": "263/6437",
+                                    "text": "Sonia Laudanna"
+                                },
+                                {
+                                    "@pid": "272/5371",
+                                    "text": "Anna Vacca"
+                                },
+                                {
+                                    "@pid": "38/2506",
+                                    "text": "Corrado Aaron Visaggio"
+                                },
+                                {
+                                    "@pid": "63/4434",
+                                    "text": "Gerardo Canfora"
+                                }
+                            ]
+                        },
+                        "title": "Profiling gas consumption in solidity smart contracts.",
+                        "venue": "J. Syst. Softw.",
+                        "volume": "186",
+                        "pages": "111193",
+                        "year": "2022",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/jss/SorboLVVC22",
+                        "doi": "10.1016/J.JSS.2021.111193",
+                        "ee": "https://doi.org/10.1016/j.jss.2021.111193",
+                        "url": "https://dblp.org/rec/journals/jss/SorboLVVC22"
+                    },
+                    "url": "URL#430268"
+                },
+                {
+                    "@score": "1",
+                    "@id": "449608",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "248/8003",
+                                    "text": "Stefanos Chaliasos"
+                                },
+                                {
+                                    "@pid": "138/9020",
+                                    "text": "Arthur Gervais"
+                                },
+                                {
+                                    "@pid": "46/2924",
+                                    "text": "Benjamin Livshits"
+                                }
+                            ]
+                        },
+                        "title": "A study of inline assembly in solidity smart contracts.",
+                        "venue": "Proc. ACM Program. Lang.",
+                        "volume": "6",
+                        "number": "OOPSLA2",
+                        "pages": "1123-1149",
+                        "year": "2022",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/pacmpl/ChaliasosGL22",
+                        "doi": "10.1145/3563328",
+                        "ee": "https://doi.org/10.1145/3563328",
+                        "url": "https://dblp.org/rec/journals/pacmpl/ChaliasosGL22"
+                    },
+                    "url": "URL#449608"
+                },
+                {
+                    "@score": "1",
+                    "@id": "449749",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "303/4686",
+                                    "text": "Bryan Tan"
+                                },
+                                {
+                                    "@pid": "251/2041",
+                                    "text": "Benjamin Mariano"
+                                },
+                                {
+                                    "@pid": "32/2903",
+                                    "text": "Shuvendu K. Lahiri"
+                                },
+                                {
+                                    "@pid": "85/3688",
+                                    "text": "Isil Dillig"
+                                },
+                                {
+                                    "@pid": "30/4550-1",
+                                    "text": "Yu Feng 0001"
+                                }
+                            ]
+                        },
+                        "title": "SolType: refinement types for arithmetic overflow in solidity.",
+                        "venue": "Proc. ACM Program. Lang.",
+                        "volume": "6",
+                        "number": "POPL",
+                        "pages": "1-29",
+                        "year": "2022",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/pacmpl/TanMLDF22",
+                        "doi": "10.1145/3498665",
+                        "ee": "https://doi.org/10.1145/3498665",
+                        "url": "https://dblp.org/rec/journals/pacmpl/TanMLDF22"
+                    },
+                    "url": "URL#449749"
+                },
+                {
+                    "@score": "1",
+                    "@id": "466287",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "254/5584",
+                                "text": "Lenin Kanagasabai"
+                            }
+                        },
+                        "title": "Mathematics based calculation and stemonitis inspired optimization algorithms for loss reduction and power solidity augmentation.",
+                        "venue": "Int. J. Syst. Assur. Eng. Manag.",
+                        "volume": "13",
+                        "number": "5",
+                        "pages": "2710-2726",
+                        "year": "2022",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/saem/Kanagasabai22g",
+                        "doi": "10.1007/S13198-022-01742-X",
+                        "ee": "https://doi.org/10.1007/s13198-022-01742-x",
+                        "url": "https://dblp.org/rec/journals/saem/Kanagasabai22g"
+                    },
+                    "url": "URL#466287"
+                },
+                {
+                    "@score": "1",
+                    "@id": "541916",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "296/0953",
+                                    "text": "Luisa Palechor"
+                                },
+                                {
+                                    "@pid": "95/7251",
+                                    "text": "Cor-Paul Bezemer"
+                                }
+                            ]
+                        },
+                        "title": "How are Solidity smart contracts tested in open source projects? An exploratory study.",
+                        "venue": "AST@ICSE",
+                        "pages": "165-169",
+                        "year": "2022",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/ast/PalechorB22",
+                        "doi": "10.1145/3524481.3527228",
+                        "ee": "https://doi.org/10.1145/3524481.3527228",
+                        "url": "https://dblp.org/rec/conf/ast/PalechorB22"
+                    },
+                    "url": "URL#541916"
+                },
+                {
+                    "@score": "1",
+                    "@id": "547135",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "188/3017",
+                                    "text": "Hauke Precht"
+                                },
+                                {
+                                    "@pid": "338/7691",
+                                    "text": "Florian Schwarm"
+                                },
+                                {
+                                    "@pid": "75/6773",
+                                    "text": "Jorge Marx Gómez"
+                                }
+                            ]
+                        },
+                        "title": "Enhancing Smart Contract Quality by Introducing a Continuous Integration Pipeline for Solidity Based Smart Contracts.",
+                        "venue": "BLOCKCHAIN",
+                        "pages": "269-278",
+                        "year": "2022",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/blockchain/PrechtSG22",
+                        "doi": "10.1007/978-3-031-21229-1_25",
+                        "ee": "https://doi.org/10.1007/978-3-031-21229-1_25",
+                        "url": "https://dblp.org/rec/conf/blockchain/PrechtSG22"
+                    },
+                    "url": "URL#547135"
+                },
+                {
+                    "@score": "1",
+                    "@id": "547202",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "330/1950",
+                                    "text": "Supriya Shakya"
+                                },
+                                {
+                                    "@pid": "23/5190",
+                                    "text": "Arnab Mukherjee"
+                                },
+                                {
+                                    "@pid": "18/7553",
+                                    "text": "Raju Halder"
+                                },
+                                {
+                                    "@pid": "48/9828",
+                                    "text": "Abyayananda Maiti"
+                                },
+                                {
+                                    "@pid": "136/8375",
+                                    "text": "Amrita Chaturvedi"
+                                }
+                            ]
+                        },
+                        "title": "SmartMixModel: Machine Learning-based Vulnerability Detection of Solidity Smart Contracts.",
+                        "venue": "Blockchain",
+                        "pages": "37-44",
+                        "year": "2022",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/blockchain2/ShakyaMHMC22",
+                        "doi": "10.1109/BLOCKCHAIN55522.2022.00016",
+                        "ee": "https://doi.org/10.1109/Blockchain55522.2022.00016",
+                        "url": "https://dblp.org/rec/conf/blockchain2/ShakyaMHMC22"
+                    },
+                    "url": "URL#547202"
+                },
+                {
+                    "@score": "1",
+                    "@id": "548094",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "120/6902",
+                                    "text": "Quang-Thang Nguyen"
+                                },
+                                {
+                                    "@pid": "320/9419",
+                                    "text": "Bao Son Do"
+                                },
+                                {
+                                    "@pid": "163/5009",
+                                    "text": "Thi Tam Nguyen"
+                                },
+                                {
+                                    "@pid": "141/2059",
+                                    "text": "Ba-Lam Do"
+                                }
+                            ]
+                        },
+                        "title": "GasSaver: A Tool for Solidity Smart Contract Optimization.",
+                        "venue": "BSCI",
+                        "pages": "125-134",
+                        "year": "2022",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/bsci/NguyenDND22",
+                        "doi": "10.1145/3494106.3528683",
+                        "ee": "https://doi.org/10.1145/3494106.3528683",
+                        "url": "https://dblp.org/rec/conf/bsci/NguyenDND22"
+                    },
+                    "url": "URL#548094"
+                },
+                {
+                    "@score": "1",
+                    "@id": "549141",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "138/6934",
+                                    "text": "Leonardo Alt"
+                                },
+                                {
+                                    "@pid": "228/7239",
+                                    "text": "Martin Blicha"
+                                },
+                                {
+                                    "@pid": "50/5894",
+                                    "text": "Antti E. J. Hyvärinen"
+                                },
+                                {
+                                    "@pid": "12/2269",
+                                    "text": "Natasha Sharygina"
+                                }
+                            ]
+                        },
+                        "title": "SolCMC: Solidity Compiler&apos;s Model Checker.",
+                        "venue": "CAV",
+                        "pages": "325-338",
+                        "year": "2022",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/cav/AltBHS22",
+                        "doi": "10.1007/978-3-031-13185-1_16",
+                        "ee": "https://doi.org/10.1007/978-3-031-13185-1_16",
+                        "url": "https://dblp.org/rec/conf/cav/AltBHS22"
+                    },
+                    "url": "URL#549141"
+                },
+                {
+                    "@score": "1",
+                    "@id": "549144",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "330/4349",
+                                    "text": "Ignacio Ballesteros"
+                                },
+                                {
+                                    "@pid": "48/1649",
+                                    "text": "Clara Benac Earle"
+                                },
+                                {
+                                    "@pid": "299/8892",
+                                    "text": "Luis Eduardo Bueso de Barrio"
+                                },
+                                {
+                                    "@pid": "f/LarsAkeFredlund",
+                                    "text": "Lars-Åke Fredlund"
+                                },
+                                {
+                                    "@pid": "92/6077",
+                                    "text": "Ángel Herranz"
+                                },
+                                {
+                                    "@pid": "m/JulioMarino",
+                                    "text": "Julio Mariño"
+                                }
+                            ]
+                        },
+                        "title": "Automatic Generation of Attacker Contracts in Solidity.",
+                        "venue": "FMBC@CAV",
+                        "pages": "3:1-3:14",
+                        "year": "2022",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/cav/BallesterosEBFH22",
+                        "doi": "10.4230/OASICS.FMBC.2022.3",
+                        "ee": "https://doi.org/10.4230/OASIcs.FMBC.2022.3",
+                        "url": "https://dblp.org/rec/conf/cav/BallesterosEBFH22"
+                    },
+                    "url": "URL#549144"
+                },
+                {
+                    "@score": "1",
+                    "@id": "619774",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "246/3262",
+                                    "text": "Mitchell Olsthoorn"
+                                },
+                                {
+                                    "@pid": "246/5338",
+                                    "text": "Dimitri Michel Stallenberg"
+                                },
+                                {
+                                    "@pid": "d/ArievanDeursen",
+                                    "text": "Arie van Deursen"
+                                },
+                                {
+                                    "@pid": "90/7547",
+                                    "text": "Annibale Panichella"
+                                }
+                            ]
+                        },
+                        "title": "SynTest-Solidity: Automated Test Case Generation and Fuzzing for Smart Contracts.",
+                        "venue": "ICSE-Companion",
+                        "pages": "202-206",
+                        "year": "2022",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icse/OlsthoornSDP22",
+                        "doi": "10.1145/3510454.3516869",
+                        "ee": "https://doi.org/10.1145/3510454.3516869",
+                        "url": "https://dblp.org/rec/conf/icse/OlsthoornSDP22"
+                    },
+                    "url": "URL#619774"
+                },
+                {
+                    "@score": "1",
+                    "@id": "621354",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "334/5705",
+                                    "text": "Moonhyeon Chung"
+                                },
+                                {
+                                    "@pid": "85/3158",
+                                    "text": "Chanik Park"
+                                }
+                            ]
+                        },
+                        "title": "Parallel Execution of Solidity Smart Contract using Append-only Shared Log.",
+                        "venue": "ICTC",
+                        "pages": "1722-1725",
+                        "year": "2022",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/ictc/ChungP22",
+                        "doi": "10.1109/ICTC55196.2022.9952656",
+                        "ee": "https://doi.org/10.1109/ICTC55196.2022.9952656",
+                        "url": "https://dblp.org/rec/conf/ictc/ChungP22"
+                    },
+                    "url": "URL#621354"
+                },
+                {
+                    "@score": "1",
+                    "@id": "640995",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "d/SDemeyer",
+                                    "text": "Serge Demeyer"
+                                },
+                                {
+                                    "@pid": "18/10723",
+                                    "text": "Henrique Rocha"
+                                },
+                                {
+                                    "@pid": "331/5355",
+                                    "text": "Darin Verheijke"
+                                }
+                            ]
+                        },
+                        "title": "Refactoring Solidity Smart Contracts to Protect Against Reentrancy Exploits.",
+                        "venue": "ISoLA",
+                        "pages": "324-344",
+                        "year": "2022",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/isola/DemeyerRV22",
+                        "doi": "10.1007/978-3-031-19756-7_18",
+                        "ee": "https://doi.org/10.1007/978-3-031-19756-7_18",
+                        "url": "https://dblp.org/rec/conf/isola/DemeyerRV22"
+                    },
+                    "url": "URL#640995"
+                },
+                {
+                    "@score": "1",
+                    "@id": "646626",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "48/7536-2",
+                                    "text": "Chenguang Zhu 0002"
+                                },
+                                {
+                                    "@pid": "96/2615",
+                                    "text": "Ye Liu"
+                                },
+                                {
+                                    "@pid": "227/8984",
+                                    "text": "Xiuheng Wu"
+                                },
+                                {
+                                    "@pid": "59/871-8",
+                                    "text": "Yi Li 0008"
+                                }
+                            ]
+                        },
+                        "title": "Identifying Solidity Smart Contract API Documentation Errors.",
+                        "venue": "ASE",
+                        "pages": "56:1-56:13",
+                        "year": "2022",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/kbse/0002LWL22",
+                        "doi": "10.1145/3551349.3556963",
+                        "ee": "https://doi.org/10.1145/3551349.3556963",
+                        "url": "https://dblp.org/rec/conf/kbse/0002LWL22"
+                    },
+                    "url": "URL#646626"
+                },
+                {
+                    "@score": "1",
+                    "@id": "654605",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "323/4154",
+                                    "text": "S. Bradic"
+                                },
+                                {
+                                    "@pid": "235/7722",
+                                    "text": "Damir Delija"
+                                },
+                                {
+                                    "@pid": "235/7728",
+                                    "text": "Goran Sirovatka"
+                                },
+                                {
+                                    "@pid": "165/6667",
+                                    "text": "Marinko Zagar"
+                                }
+                            ]
+                        },
+                        "title": "Creating own NFT token using erc721 standard and solidity programming language.",
+                        "venue": "MIPRO",
+                        "pages": "1053-1056",
+                        "year": "2022",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/mipro/BradicDSZ22",
+                        "doi": "10.23919/MIPRO55190.2022.9803593",
+                        "ee": "https://doi.org/10.23919/MIPRO55190.2022.9803593",
+                        "url": "https://dblp.org/rec/conf/mipro/BradicDSZ22"
+                    },
+                    "url": "URL#654605"
+                },
+                {
+                    "@score": "1",
+                    "@id": "670012",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "292/3827",
+                                    "text": "Morena Barboni"
+                                },
+                                {
+                                    "@pid": "329/7228",
+                                    "text": "Francesco Casoni"
+                                },
+                                {
+                                    "@pid": "133/8167",
+                                    "text": "Andrea Morichetta 0001"
+                                },
+                                {
+                                    "@pid": "90/329",
+                                    "text": "Andrea Polini"
+                                }
+                            ]
+                        },
+                        "title": "ReSuMo: Regression Mutation Testing for Solidity Smart Contracts.",
+                        "venue": "QUATIC",
+                        "pages": "61-76",
+                        "year": "2022",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/quatic/BarboniC0P22",
+                        "doi": "10.1007/978-3-031-14179-9_5",
+                        "ee": "https://doi.org/10.1007/978-3-031-14179-9_5",
+                        "url": "https://dblp.org/rec/conf/quatic/BarboniC0P22"
+                    },
+                    "url": "URL#670012"
+                },
+                {
+                    "@score": "1",
+                    "@id": "673014",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "154/7842",
+                                    "text": "Shaun Azzopardi"
+                                },
+                                {
+                                    "@pid": "40/7582",
+                                    "text": "Joshua Ellul"
+                                },
+                                {
+                                    "@pid": "329/5727",
+                                    "text": "Ryan Falzon"
+                                },
+                                {
+                                    "@pid": "52/776",
+                                    "text": "Gordon J. Pace"
+                                }
+                            ]
+                        },
+                        "title": "AspectSol: A Solidity Aspect-Oriented Programming Tool with Applications in Runtime Verification.",
+                        "venue": "RV",
+                        "pages": "243-252",
+                        "year": "2022",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/rv/AzzopardiEFP22a",
+                        "doi": "10.1007/978-3-031-17196-3_13",
+                        "ee": "https://doi.org/10.1007/978-3-031-17196-3_13",
+                        "url": "https://dblp.org/rec/conf/rv/AzzopardiEFP22a"
+                    },
+                    "url": "URL#673014"
+                },
+                {
+                    "@score": "1",
+                    "@id": "673199",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "228/0699",
+                                    "text": "Ikram Garfatta"
+                                },
+                                {
+                                    "@pid": "06/1858",
+                                    "text": "Kaïs Klai"
+                                },
+                                {
+                                    "@pid": "27/4621",
+                                    "text": "Mohamed Graïet"
+                                },
+                                {
+                                    "@pid": "87/982",
+                                    "text": "Walid Gaaloul"
+                                }
+                            ]
+                        },
+                        "title": "Model checking of vulnerabilities in smart contracts: a solidity-to-CPN approach.",
+                        "venue": "SAC",
+                        "pages": "316-325",
+                        "year": "2022",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/sac/GarfattaKGG22",
+                        "doi": "10.1145/3477314.3507309",
+                        "ee": "https://doi.org/10.1145/3477314.3507309",
+                        "url": "https://dblp.org/rec/conf/sac/GarfattaKGG22"
+                    },
+                    "url": "URL#673199"
+                },
+                {
+                    "@score": "1",
+                    "@id": "679248",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "55/4730-1",
+                                    "text": "Shang-Wei Lin 0001"
+                                },
+                                {
+                                    "@pid": "271/8344",
+                                    "text": "Palina Tolmach"
+                                },
+                                {
+                                    "@pid": "96/2615",
+                                    "text": "Ye Liu"
+                                },
+                                {
+                                    "@pid": "59/871-8",
+                                    "text": "Yi Li 0008"
+                                }
+                            ]
+                        },
+                        "title": "SolSEE: a source-level symbolic execution engine for solidity.",
+                        "venue": "ESEC/SIGSOFT FSE",
+                        "pages": "1687-1691",
+                        "year": "2022",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/sigsoft/0001TL022",
+                        "doi": "10.1145/3540250.3558923",
+                        "ee": "https://doi.org/10.1145/3540250.3558923",
+                        "url": "https://dblp.org/rec/conf/sigsoft/0001TL022"
+                    },
+                    "url": "URL#679248"
+                },
+                {
+                    "@score": "1",
+                    "@id": "688962",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "297/5604",
+                                    "text": "Scott Wesley"
+                                },
+                                {
+                                    "@pid": "05/7730",
+                                    "text": "Maria Christakis"
+                                },
+                                {
+                                    "@pid": "77/4230a",
+                                    "text": "Jorge A. Navas"
+                                },
+                                {
+                                    "@pid": "10/2922",
+                                    "text": "Richard J. Trefler"
+                                },
+                                {
+                                    "@pid": "28/9798",
+                                    "text": "Valentin Wüstholz"
+                                },
+                                {
+                                    "@pid": "44/3532",
+                                    "text": "Arie Gurfinkel"
+                                }
+                            ]
+                        },
+                        "title": "Verifying Solidity Smart Contracts via Communication Abstraction in SmartACE.",
+                        "venue": "VMCAI",
+                        "pages": "425-449",
+                        "year": "2022",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/vmcai/WesleyCNTWG22",
+                        "doi": "10.1007/978-3-030-94583-1_21",
+                        "ee": "https://doi.org/10.1007/978-3-030-94583-1_21",
+                        "url": "https://dblp.org/rec/conf/vmcai/WesleyCNTWG22"
+                    },
+                    "url": "URL#688962"
+                },
+                {
+                    "@score": "1",
+                    "@id": "693139",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "331/5355",
+                                    "text": "Darin Verheijke"
+                                },
+                                {
+                                    "@pid": "18/10723",
+                                    "text": "Henrique Rocha"
+                                }
+                            ]
+                        },
+                        "title": "An exploratory study on solidity guards and ether exchange constructs.",
+                        "venue": "WETSEB@ICSE",
+                        "pages": "1-8",
+                        "year": "2022",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/wetseb-ws/VerheijkeR22",
+                        "doi": "10.1145/3528226.3528372",
+                        "ee": "https://doi.org/10.1145/3528226.3528372",
+                        "url": "https://dblp.org/rec/conf/wetseb-ws/VerheijkeR22"
+                    },
+                    "url": "URL#693139"
+                },
+                {
+                    "@score": "1",
+                    "@id": "786810",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "268/5538",
+                                    "text": "Gavin Zheng"
+                                },
+                                {
+                                    "@pid": "44/7500",
+                                    "text": "Longxiang Gao"
+                                },
+                                {
+                                    "@pid": "72/4826",
+                                    "text": "Liqun Huang"
+                                },
+                                {
+                                    "@pid": "58/2489",
+                                    "text": "Jian Guan"
+                                }
+                            ]
+                        },
+                        "title": "Ethereum Smart Contract Development in Solidity",
+                        "pages": "3-334",
+                        "publisher": "Springer",
+                        "year": "2021",
+                        "type": "Books and Theses",
+                        "access": "closed",
+                        "key": "books/sp/ZhengGHG21",
+                        "doi": "10.1007/978-981-15-6218-1",
+                        "ee": "https://doi.org/10.1007/978-981-15-6218-1",
+                        "url": "https://dblp.org/rec/books/sp/ZhengGHG21"
+                    },
+                    "url": "URL#786810"
+                },
+                {
+                    "@score": "1",
+                    "@id": "793862",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "255/1645",
+                                    "text": "Juan Cano-Benito"
+                                },
+                                {
+                                    "@pid": "181/1731",
+                                    "text": "Andrea Cimmino"
+                                },
+                                {
+                                    "@pid": "82/3941",
+                                    "text": "Raúl García-Castro"
+                                }
+                            ]
+                        },
+                        "title": "Toward the Ontological Modeling of Smart Contracts: A Solidity Use Case.",
+                        "venue": "IEEE Access",
+                        "volume": "9",
+                        "pages": "140156-140172",
+                        "year": "2021",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/access/Cano-BenitoCG21",
+                        "doi": "10.1109/ACCESS.2021.3115577",
+                        "ee": "https://doi.org/10.1109/ACCESS.2021.3115577",
+                        "url": "https://dblp.org/rec/journals/access/Cano-BenitoCG21"
+                    },
+                    "url": "URL#793862"
+                },
+                {
+                    "@score": "1",
+                    "@id": "992929",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "228/0699",
+                                    "text": "Ikram Garfatta"
+                                },
+                                {
+                                    "@pid": "06/1858",
+                                    "text": "Kais Klai"
+                                },
+                                {
+                                    "@pid": "87/982",
+                                    "text": "Walid Gaaloul"
+                                },
+                                {
+                                    "@pid": "27/4621",
+                                    "text": "Mohamed Graiet"
+                                }
+                            ]
+                        },
+                        "title": "A Survey on Formal Verification for Solidity Smart Contracts.",
+                        "venue": "ACSW",
+                        "pages": "3:1-3:10",
+                        "year": "2021",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/acsw/GarfattaKGG21",
+                        "doi": "10.1145/3437378.3437879",
+                        "ee": "https://doi.org/10.1145/3437378.3437879",
+                        "url": "https://dblp.org/rec/conf/acsw/GarfattaKGG21"
+                    },
+                    "url": "URL#992929"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1003261",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "292/3827",
+                                    "text": "Morena Barboni"
+                                },
+                                {
+                                    "@pid": "133/8167",
+                                    "text": "Andrea Morichetta 0001"
+                                },
+                                {
+                                    "@pid": "90/329",
+                                    "text": "Andrea Polini"
+                                }
+                            ]
+                        },
+                        "title": "SuMo: A Mutation Testing Strategy for Solidity Smart Contracts.",
+                        "venue": "AST@ICSE",
+                        "pages": "50-59",
+                        "year": "2021",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/ast/Barboni0P21",
+                        "doi": "10.1109/AST52587.2021.00014",
+                        "ee": "https://doi.org/10.1109/AST52587.2021.00014",
+                        "url": "https://dblp.org/rec/conf/ast/Barboni0P21"
+                    },
+                    "url": "URL#1003261"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1007946",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "234/0124",
+                                    "text": "Mirko Staderini"
+                                },
+                                {
+                                    "@pid": "31/4416",
+                                    "text": "Andrea Bondavalli"
+                                }
+                            ]
+                        },
+                        "title": "Investigation on Vulnerabilities Location in Solidity Smart Contracts.",
+                        "venue": "BLOCKCHAIN",
+                        "pages": "199-211",
+                        "year": "2021",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/blockchain/StaderiniB21",
+                        "doi": "10.1007/978-3-030-86162-9_20",
+                        "ee": "https://doi.org/10.1007/978-3-030-86162-9_20",
+                        "url": "https://dblp.org/rec/conf/blockchain/StaderiniB21"
+                    },
+                    "url": "URL#1007946"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1009094",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "305/2046",
+                                    "text": "Akshay M. Fajge"
+                                },
+                                {
+                                    "@pid": "124/6029",
+                                    "text": "Siddharth Thakur"
+                                },
+                                {
+                                    "@pid": "92/5081",
+                                    "text": "Rahul Kumar"
+                                },
+                                {
+                                    "@pid": "18/7553",
+                                    "text": "Raju Halder"
+                                }
+                            ]
+                        },
+                        "title": "An Automated Framework for Migrating Java Applications to Ethereum Solidity Applications.",
+                        "venue": "BRAINS",
+                        "pages": "1-3",
+                        "year": "2021",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/brains/FajgeTKH21",
+                        "doi": "10.1109/BRAINS52497.2021.9569799",
+                        "ee": "https://doi.org/10.1109/BRAINS52497.2021.9569799",
+                        "url": "https://dblp.org/rec/conf/brains/FajgeTKH21"
+                    },
+                    "url": "URL#1009094"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1021412",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "98/960",
+                                    "text": "Jian Zhu"
+                                },
+                                {
+                                    "@pid": "57/6633-4",
+                                    "text": "Kai Hu 0004"
+                                },
+                                {
+                                    "@pid": "60/599",
+                                    "text": "Mamoun Filali"
+                                },
+                                {
+                                    "@pid": "97/1837",
+                                    "text": "Jean-Paul Bodeveix"
+                                },
+                                {
+                                    "@pid": "46/4798",
+                                    "text": "Jean-Pierre Talpin"
+                                },
+                                {
+                                    "@pid": "302/2265",
+                                    "text": "Haitao Cao 0005"
+                                }
+                            ]
+                        },
+                        "title": "Formal Simulation and Verification of Solidity contracts in Event-B.",
+                        "venue": "COMPSAC",
+                        "pages": "1309-1314",
+                        "year": "2021",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/compsac/Zhu0FBTC21",
+                        "doi": "10.1109/COMPSAC51774.2021.00183",
+                        "ee": "https://doi.org/10.1109/COMPSAC51774.2021.00183",
+                        "url": "https://dblp.org/rec/conf/compsac/Zhu0FBTC21"
+                    },
+                    "url": "URL#1021412"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1069110",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "318/3690",
+                                    "text": "Nazia Abrar"
+                                },
+                                {
+                                    "@pid": "285/0893",
+                                    "text": "Muhammad Faraz Hyder"
+                                },
+                                {
+                                    "@pid": "50/88",
+                                    "text": "Muhammad Kamran"
+                                },
+                                {
+                                    "@pid": "18/1607",
+                                    "text": "Muhammad Mubashir Khan"
+                                }
+                            ]
+                        },
+                        "title": "Privacy Breaches in Smart Contract due to Solidity Language and its Protection.",
+                        "venue": "ICFNDS",
+                        "pages": "803-807",
+                        "year": "2021",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icfnds/AbrarHKK21",
+                        "doi": "10.1145/3508072.3508225",
+                        "ee": "https://doi.org/10.1145/3508072.3508225",
+                        "url": "https://dblp.org/rec/conf/icfnds/AbrarHKK21"
+                    },
+                    "url": "URL#1069110"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1082558",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "228/0699",
+                                    "text": "Ikram Garfatta"
+                                },
+                                {
+                                    "@pid": "06/1858",
+                                    "text": "Kaïs Klai"
+                                },
+                                {
+                                    "@pid": "27/4621",
+                                    "text": "Mohamed Graïet"
+                                },
+                                {
+                                    "@pid": "87/982",
+                                    "text": "Walid Gaaloul"
+                                }
+                            ]
+                        },
+                        "title": "Model Checking of Solidity Smart Contracts Adopted for Business Processes.",
+                        "venue": "ICSOC",
+                        "pages": "116-132",
+                        "year": "2021",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icsoc/GarfattaKGG21",
+                        "doi": "10.1007/978-3-030-91431-8_8",
+                        "ee": "https://doi.org/10.1007/978-3-030-91431-8_8",
+                        "url": "https://dblp.org/rec/conf/icsoc/GarfattaKGG21"
+                    },
+                    "url": "URL#1082558"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1131621",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "266/6726",
+                                    "text": "Kazuki Hara"
+                                },
+                                {
+                                    "@pid": "61/4099",
+                                    "text": "Takeshi Takahashi 0001"
+                                },
+                                {
+                                    "@pid": "318/0509",
+                                    "text": "Motoya Ishimaki"
+                                },
+                                {
+                                    "@pid": "21/5940",
+                                    "text": "Kazumasa Omote"
+                                }
+                            ]
+                        },
+                        "title": "Machine-learning Approach using Solidity Bytecode for Smart-contract Honeypot Detection in the Ethereum.",
+                        "venue": "QRS Companion",
+                        "pages": "652-659",
+                        "year": "2021",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/qrs/HaraTIO21",
+                        "doi": "10.1109/QRS-C55045.2021.00099",
+                        "ee": "https://doi.org/10.1109/QRS-C55045.2021.00099",
+                        "url": "https://dblp.org/rec/conf/qrs/HaraTIO21"
+                    },
+                    "url": "URL#1131621"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1131753",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "61/2757",
+                                    "text": "Ziyan Wang"
+                                },
+                                {
+                                    "@pid": "45/2913",
+                                    "text": "Xiangping Chen"
+                                },
+                                {
+                                    "@pid": "71/4779",
+                                    "text": "Xiaocong Zhou"
+                                },
+                                {
+                                    "@pid": "15/8391-2",
+                                    "text": "Yuan Huang 0002"
+                                },
+                                {
+                                    "@pid": "z/ZibinZheng",
+                                    "text": "Zibin Zheng"
+                                },
+                                {
+                                    "@pid": "119/4079",
+                                    "text": "Jiajing Wu"
+                                }
+                            ]
+                        },
+                        "title": "An Empirical Study of Solidity Language Features.",
+                        "venue": "QRS Companion",
+                        "pages": "698-707",
+                        "year": "2021",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/qrs/WangCZHZW21",
+                        "doi": "10.1109/QRS-C55045.2021.00105",
+                        "ee": "https://doi.org/10.1109/QRS-C55045.2021.00105",
+                        "url": "https://dblp.org/rec/conf/qrs/WangCZHZW21"
+                    },
+                    "url": "URL#1131753"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1135073",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "135/9609",
+                                    "text": "Pedro Antonino"
+                                },
+                                {
+                                    "@pid": "r/AWRoscoe",
+                                    "text": "A. W. Roscoe 0001"
+                                }
+                            ]
+                        },
+                        "title": "Solidifier: bounded model checking solidity using lazy contract deployment and precise memory modelling.",
+                        "venue": "SAC",
+                        "pages": "1788-1797",
+                        "year": "2021",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/sac/Antonino021",
+                        "doi": "10.1145/3412841.3442051",
+                        "ee": "https://doi.org/10.1145/3412841.3442051",
+                        "url": "https://dblp.org/rec/conf/sac/Antonino021"
+                    },
+                    "url": "URL#1135073"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1137476",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "153/5319",
+                                    "text": "Diego Marmsoler"
+                                },
+                                {
+                                    "@pid": "b/AchimDBrucker",
+                                    "text": "Achim D. Brucker"
+                                }
+                            ]
+                        },
+                        "title": "A Denotational Semantics of Solidity in Isabelle/HOL.",
+                        "venue": "SEFM",
+                        "pages": "403-422",
+                        "year": "2021",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/sefm/MarmsolerB21",
+                        "doi": "10.1007/978-3-030-92124-8_23",
+                        "ee": "https://doi.org/10.1007/978-3-030-92124-8_23",
+                        "url": "https://dblp.org/rec/conf/sefm/MarmsolerB21"
+                    },
+                    "url": "URL#1137476"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1137572",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "253/0857",
+                                    "text": "Tianyuan Hu"
+                                },
+                                {
+                                    "@pid": "214/5665",
+                                    "text": "Zhenyu Pan"
+                                },
+                                {
+                                    "@pid": "l/BixinLi",
+                                    "text": "Bixin Li"
+                                }
+                            ]
+                        },
+                        "title": "SolDetector: Detect Defects Based on Knowledge Graph of Solidity Smart Contract.",
+                        "venue": "SEKE",
+                        "pages": "423-428",
+                        "year": "2021",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/seke/HuPL21",
+                        "doi": "10.18293/SEKE2021-133",
+                        "ee": "https://doi.org/10.18293/SEKE2021-133",
+                        "url": "https://dblp.org/rec/conf/seke/HuPL21"
+                    },
+                    "url": "URL#1137572"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1153898",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "51/7304",
+                                    "text": "Sooyeon Lee"
+                                },
+                                {
+                                    "@pid": "83/142",
+                                    "text": "Eun-Sun Cho"
+                                }
+                            ]
+                        },
+                        "title": "Lightweight extension of an execution environment for safer function calls in Solidity/Ethereum Virtual Machine smart contracts.",
+                        "venue": "SANER",
+                        "pages": "689-695",
+                        "year": "2021",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/wcre/LeeC21",
+                        "doi": "10.1109/SANER50967.2021.00087",
+                        "ee": "https://doi.org/10.1109/SANER50967.2021.00087",
+                        "url": "https://dblp.org/rec/conf/wcre/LeeC21"
+                    },
+                    "url": "URL#1153898"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1154914",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "228/0699",
+                                    "text": "Ikram Garfatta"
+                                },
+                                {
+                                    "@pid": "06/1858",
+                                    "text": "Kaïs Klai"
+                                },
+                                {
+                                    "@pid": "27/4621",
+                                    "text": "Mohamed Graïet"
+                                },
+                                {
+                                    "@pid": "87/982",
+                                    "text": "Walid Gaaloul"
+                                }
+                            ]
+                        },
+                        "title": "A Solidity-to-CPN Approach Towards Formal Verification of Smart Contracts.",
+                        "venue": "WETICE",
+                        "pages": "69-74",
+                        "year": "2021",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/wetice/GarfattaKGG21",
+                        "doi": "10.1109/WETICE53228.2021.00024",
+                        "ee": "https://doi.org/10.1109/WETICE53228.2021.00024",
+                        "url": "https://dblp.org/rec/conf/wetice/GarfattaKGG21"
+                    },
+                    "url": "URL#1154914"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1171299",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "285/6346",
+                                    "text": "Stefan Driessen"
+                                },
+                                {
+                                    "@pid": "165/8639",
+                                    "text": "Dario Di Nucci"
+                                },
+                                {
+                                    "@pid": "39/1799",
+                                    "text": "Geert Monsieur"
+                                },
+                                {
+                                    "@pid": "85/22",
+                                    "text": "Willem-Jan van den Heuvel"
+                                }
+                            ]
+                        },
+                        "title": "AGSolT: a Tool for Automated Test-Case Generation for Solidity Smart Contracts.",
+                        "venue": "CoRR",
+                        "volume": "abs/2102.08864",
+                        "year": "2021",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2102-08864",
+                        "ee": "https://arxiv.org/abs/2102.08864",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2102-08864"
+                    },
+                    "url": "URL#1171299"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1189000",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "292/3827",
+                                    "text": "Morena Barboni"
+                                },
+                                {
+                                    "@pid": "133/8167",
+                                    "text": "Andrea Morichetta 0001"
+                                },
+                                {
+                                    "@pid": "90/329",
+                                    "text": "Andrea Polini"
+                                }
+                            ]
+                        },
+                        "title": "SuMo: A Mutation Testing Strategy for Solidity Smart Contracts.",
+                        "venue": "CoRR",
+                        "volume": "abs/2105.03626",
+                        "year": "2021",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2105-03626",
+                        "ee": "https://arxiv.org/abs/2105.03626",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2105-03626"
+                    },
+                    "url": "URL#1189000"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1197028",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "249/5046",
+                                    "text": "Chaochen Shi"
+                                },
+                                {
+                                    "@pid": "98/2912-1",
+                                    "text": "Yong Xiang 0001"
+                                },
+                                {
+                                    "@pid": "18/11043",
+                                    "text": "Jiangshan Yu"
+                                },
+                                {
+                                    "@pid": "153/9985",
+                                    "text": "Keshav Sood"
+                                },
+                                {
+                                    "@pid": "44/7500",
+                                    "text": "Longxiang Gao"
+                                }
+                            ]
+                        },
+                        "title": "SolcTrans: Towards machine translation of Solidity smart contract source code.",
+                        "venue": "CoRR",
+                        "volume": "abs/2106.06458",
+                        "year": "2021",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2106-06458",
+                        "ee": "https://arxiv.org/abs/2106.06458",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2106-06458"
+                    },
+                    "url": "URL#1197028"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1220036",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "303/4686",
+                                    "text": "Bryan Tan"
+                                },
+                                {
+                                    "@pid": "251/2041",
+                                    "text": "Benjamin Mariano"
+                                },
+                                {
+                                    "@pid": "32/2903",
+                                    "text": "Shuvendu K. Lahiri"
+                                },
+                                {
+                                    "@pid": "85/3688",
+                                    "text": "Isil Dillig"
+                                },
+                                {
+                                    "@pid": "30/4550-1",
+                                    "text": "Yu Feng 0001"
+                                }
+                            ]
+                        },
+                        "title": "SolType: Refinement Types for Solidity.",
+                        "venue": "CoRR",
+                        "volume": "abs/2110.00677",
+                        "year": "2021",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2110-00677",
+                        "ee": "https://arxiv.org/abs/2110.00677",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2110-00677"
+                    },
+                    "url": "URL#1220036"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1386849",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "126/1506",
+                                    "text": "Alberto M. Pernia"
+                                },
+                                {
+                                    "@pid": "215/0740",
+                                    "text": "Hector Andres Mayor"
+                                },
+                                {
+                                    "@pid": "119/5485",
+                                    "text": "Miguel J. Prieto"
+                                },
+                                {
+                                    "@pid": "131/0938",
+                                    "text": "Pedro J. Villegas"
+                                },
+                                {
+                                    "@pid": "119/5431",
+                                    "text": "Juan A. Martínez 0002"
+                                },
+                                {
+                                    "@pid": "129/6700",
+                                    "text": "Juan Antonio Martín-Ramos"
+                                }
+                            ]
+                        },
+                        "title": "Estimation of Blockage Position, Geometry, and Solidity in Molten Salt Pipelines.",
+                        "venue": "Sensors",
+                        "volume": "20",
+                        "number": "12",
+                        "pages": "3490",
+                        "year": "2020",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/sensors/PerniaMPVMM20",
+                        "doi": "10.3390/S20123490",
+                        "ee": "https://doi.org/10.3390/s20123490",
+                        "url": "https://dblp.org/rec/journals/sensors/PerniaMPVMM20"
+                    },
+                    "url": "URL#1386849"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1435127",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "244/9981",
+                                    "text": "Stelios Daveas"
+                                },
+                                {
+                                    "@pid": "251/1470",
+                                    "text": "Kostis Karantias"
+                                },
+                                {
+                                    "@pid": "47/3682",
+                                    "text": "Aggelos Kiayias"
+                                },
+                                {
+                                    "@pid": "197/1222",
+                                    "text": "Dionysis Zindros"
+                                }
+                            ]
+                        },
+                        "title": "A Gas-Efficient Superlight Bitcoin Client in Solidity.",
+                        "venue": "AFT",
+                        "pages": "132-144",
+                        "year": "2020",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/aft/DaveasKKZ20",
+                        "doi": "10.1145/3419614.3423255",
+                        "ee": "https://doi.org/10.1145/3419614.3423255",
+                        "url": "https://dblp.org/rec/conf/aft/DaveasKKZ20"
+                    },
+                    "url": "URL#1435127"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1445988",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "00/6525-6",
+                                    "text": "Zihan Zhou 0006"
+                                },
+                                {
+                                    "@pid": "70/880",
+                                    "text": "Yan Xiong"
+                                },
+                                {
+                                    "@pid": "47/7564",
+                                    "text": "Wenchao Huang"
+                                },
+                                {
+                                    "@pid": "30/14",
+                                    "text": "Lu Ma"
+                                }
+                            ]
+                        },
+                        "title": "SPrune: A Code Pruning Tool for Ethereum Solidity Contract Static Analysis.",
+                        "venue": "BigCom",
+                        "pages": "66-70",
+                        "year": "2020",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/bigcom/0006XHM20",
+                        "doi": "10.1109/BIGCOM51056.2020.00015",
+                        "ee": "https://doi.org/10.1109/BigCom51056.2020.00015",
+                        "url": "https://dblp.org/rec/conf/bigcom/0006XHM20"
+                    },
+                    "url": "URL#1445988"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1448190",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "282/9185",
+                                    "text": "Tamara Brandstätter"
+                                },
+                                {
+                                    "@pid": "s/StefanSchulte2",
+                                    "text": "Stefan Schulte 0002"
+                                },
+                                {
+                                    "@pid": "150/6416",
+                                    "text": "Jürgen Cito"
+                                },
+                                {
+                                    "@pid": "188/1821",
+                                    "text": "Michael Borkowski"
+                                }
+                            ]
+                        },
+                        "title": "Characterizing Efficiency Optimizations in Solidity Smart Contracts.",
+                        "venue": "Blockchain",
+                        "pages": "281-290",
+                        "year": "2020",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/blockchain2/BrandstatterSCB20",
+                        "doi": "10.1109/BLOCKCHAIN50366.2020.00042",
+                        "ee": "https://doi.org/10.1109/Blockchain50366.2020.00042",
+                        "url": "https://dblp.org/rec/conf/blockchain2/BrandstatterSCB20"
+                    },
+                    "url": "URL#1448190"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1449246",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "261/3403",
+                                    "text": "Mudabbir Kaleem"
+                                },
+                                {
+                                    "@pid": "120/6277",
+                                    "text": "Anastasia Mavridou"
+                                },
+                                {
+                                    "@pid": "54/10042",
+                                    "text": "Aron Laszka"
+                                }
+                            ]
+                        },
+                        "title": "Vyper: A Security Comparison with Solidity Based on Common Vulnerabilities.",
+                        "venue": "BRAINS",
+                        "pages": "107-111",
+                        "year": "2020",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/brains/KaleemML20",
+                        "doi": "10.1109/BRAINS49436.2020.9223278",
+                        "ee": "https://doi.org/10.1109/BRAINS49436.2020.9223278",
+                        "url": "https://dblp.org/rec/conf/brains/KaleemML20"
+                    },
+                    "url": "URL#1449246"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1450235",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "150/7817",
+                                    "text": "Ákos Hajdu"
+                                },
+                                {
+                                    "@pid": "56/2451",
+                                    "text": "Dejan Jovanovic"
+                                },
+                                {
+                                    "@pid": "21/4435",
+                                    "text": "Gabriela F. Ciocarlie"
+                                }
+                            ]
+                        },
+                        "title": "Formal Specification and Verification of Solidity Contracts with Events (Short Paper).",
+                        "venue": "FMBC@CAV",
+                        "pages": "2:1-2:9",
+                        "year": "2020",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/cav/HajduJC20",
+                        "doi": "10.4230/OASICS.FMBC.2020.2",
+                        "ee": "https://doi.org/10.4230/OASIcs.FMBC.2020.2",
+                        "url": "https://dblp.org/rec/conf/cav/HajduJC20"
+                    },
+                    "url": "URL#1450235"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1480358",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "150/7817",
+                                    "text": "Ákos Hajdu"
+                                },
+                                {
+                                    "@pid": "56/2451",
+                                    "text": "Dejan Jovanovic"
+                                }
+                            ]
+                        },
+                        "title": "SMT-Friendly Formalization of the Solidity Memory Model.",
+                        "venue": "ESOP",
+                        "pages": "224-250",
+                        "year": "2020",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/esop/HajduJ20",
+                        "doi": "10.1007/978-3-030-44914-8_9",
+                        "ee": "https://doi.org/10.1007/978-3-030-44914-8_9",
+                        "url": "https://dblp.org/rec/conf/esop/HajduJ20"
+                    },
+                    "url": "URL#1480358"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1508984",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "22/3139",
+                                    "text": "António Miguel Rosado da Cruz"
+                                },
+                                {
+                                    "@pid": "42/2038",
+                                    "text": "Francisco Santos"
+                                },
+                                {
+                                    "@pid": "266/5991",
+                                    "text": "Paulo Mendes 0004"
+                                },
+                                {
+                                    "@pid": "130/4597",
+                                    "text": "Estrela Ferreira Cruz"
+                                }
+                            ]
+                        },
+                        "title": "Blockchain-based Traceability of Carbon Footprint: A Solidity Smart Contract for Ethereum.",
+                        "venue": "ICEIS",
+                        "pages": "258-268",
+                        "year": "2020",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/iceis/CruzSMC20",
+                        "doi": "10.5220/0009412602580268",
+                        "ee": "https://doi.org/10.5220/0009412602580268",
+                        "url": "https://dblp.org/rec/conf/iceis/CruzSMC20"
+                    },
+                    "url": "URL#1508984"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1512430",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "10/8823",
+                                    "text": "Phitchayaphong Tantikul"
+                                },
+                                {
+                                    "@pid": "15/4758",
+                                    "text": "Sudsanguan Ngamsuriyaroj"
+                                }
+                            ]
+                        },
+                        "title": "Exploring Vulnerabilities in Solidity Smart Contract.",
+                        "venue": "ICISSP",
+                        "pages": "317-324",
+                        "year": "2020",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icissp/TantikulN20",
+                        "doi": "10.5220/0008909803170324",
+                        "ee": "https://doi.org/10.5220/0008909803170324",
+                        "url": "https://dblp.org/rec/conf/icissp/TantikulN20"
+                    },
+                    "url": "URL#1512430"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1522393",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "86/2055",
+                                    "text": "Sungjae Hwang"
+                                },
+                                {
+                                    "@pid": "03/2760",
+                                    "text": "Sukyoung Ryu"
+                                }
+                            ]
+                        },
+                        "title": "Gap between theory and practice: an empirical study of security patches in solidity.",
+                        "venue": "ICSE",
+                        "pages": "542-553",
+                        "year": "2020",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icse/HwangR20",
+                        "doi": "10.1145/3377811.3380424",
+                        "ee": "https://doi.org/10.1145/3377811.3380424",
+                        "url": "https://dblp.org/rec/conf/icse/HwangR20"
+                    },
+                    "url": "URL#1522393"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1522525",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "263/3403",
+                                    "text": "Tai D. Nguyen"
+                                },
+                                {
+                                    "@pid": "152/4678",
+                                    "text": "Long H. Pham"
+                                },
+                                {
+                                    "@pid": "s/JunSun1",
+                                    "text": "Jun Sun 0001"
+                                },
+                                {
+                                    "@pid": "77/1513-1",
+                                    "text": "Yun Lin 0001"
+                                },
+                                {
+                                    "@pid": "64/8605-1",
+                                    "text": "Quang Tran Minh 0001"
+                                }
+                            ]
+                        },
+                        "title": "sFuzz: an efficient adaptive fuzzer for solidity smart contracts.",
+                        "venue": "ICSE",
+                        "pages": "778-788",
+                        "year": "2020",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icse/NguyenP0L020",
+                        "doi": "10.1145/3377811.3380334",
+                        "ee": "https://doi.org/10.1145/3377811.3380334",
+                        "url": "https://dblp.org/rec/conf/icse/NguyenP0L020"
+                    },
+                    "url": "URL#1522525"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1523083",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "228/0699",
+                                    "text": "Ikram Garfatta"
+                                },
+                                {
+                                    "@pid": "06/1858",
+                                    "text": "Kaïs Klai"
+                                },
+                                {
+                                    "@pid": "294/3410",
+                                    "text": "Mahamed Graïet"
+                                },
+                                {
+                                    "@pid": "87/982",
+                                    "text": "Walid Gaaloul"
+                                }
+                            ]
+                        },
+                        "title": "Blockchain-Based Business Processes: A Solidity-to-CPN Formal Verification Approach.",
+                        "venue": "ICSOC Workshops",
+                        "pages": "47-53",
+                        "year": "2020",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icsoc/GarfattaKGG20",
+                        "doi": "10.1007/978-3-030-76352-7_7",
+                        "ee": "https://doi.org/10.1007/978-3-030-76352-7_7",
+                        "url": "https://dblp.org/rec/conf/icsoc/GarfattaKGG20"
+                    },
+                    "url": "URL#1523083"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1550231",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "f/JoaoFFerreira",
+                                    "text": "João F. Ferreira 0001"
+                                },
+                                {
+                                    "@pid": "30/2478-3",
+                                    "text": "Pedro Cruz 0003"
+                                },
+                                {
+                                    "@pid": "163/2121",
+                                    "text": "Thomas Durieux"
+                                },
+                                {
+                                    "@pid": "00/6243",
+                                    "text": "Rui Abreu 0001"
+                                }
+                            ]
+                        },
+                        "title": "SmartBugs: A Framework to Analyze Solidity Smart Contracts.",
+                        "venue": "ASE",
+                        "pages": "1349-1352",
+                        "year": "2020",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/kbse/FerreiraCDA20",
+                        "doi": "10.1145/3324884.3415298",
+                        "ee": "https://doi.org/10.1145/3324884.3415298",
+                        "url": "https://dblp.org/rec/conf/kbse/FerreiraCDA20"
+                    },
+                    "url": "URL#1550231"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1582579",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "150/7817",
+                                    "text": "Ákos Hajdu"
+                                },
+                                {
+                                    "@pid": "56/2451",
+                                    "text": "Dejan Jovanovic"
+                                }
+                            ]
+                        },
+                        "title": "Abstract: SMT-Friendly Formalization of the Solidity Memory Model.",
+                        "venue": "SMT",
+                        "pages": "59",
+                        "year": "2020",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/smt/HajduJ20",
+                        "ee": "https://ceur-ws.org/Vol-2854/abstract3.pdf",
+                        "url": "https://dblp.org/rec/conf/smt/HajduJ20"
+                    },
+                    "url": "URL#1582579"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1583602",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "64/8561",
+                                    "text": "Jiao Jiao"
+                                },
+                                {
+                                    "@pid": "153/5355",
+                                    "text": "Shuanglong Kan"
+                                },
+                                {
+                                    "@pid": "55/4730-1",
+                                    "text": "Shang-Wei Lin 0001"
+                                },
+                                {
+                                    "@pid": "22/111",
+                                    "text": "David Sanán"
+                                },
+                                {
+                                    "@pid": "51/3710-3",
+                                    "text": "Yang Liu 0003"
+                                },
+                                {
+                                    "@pid": "s/JunSun1",
+                                    "text": "Jun Sun 0001"
+                                }
+                            ]
+                        },
+                        "title": "Semantic Understanding of Smart Contracts: Executable Operational Semantics of Solidity.",
+                        "venue": "SP",
+                        "pages": "1695-1712",
+                        "year": "2020",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/sp/JiaoK0S0020",
+                        "doi": "10.1109/SP40000.2020.00066",
+                        "ee": "https://doi.org/10.1109/SP40000.2020.00066",
+                        "url": "https://dblp.org/rec/conf/sp/JiaoK0S0020"
+                    },
+                    "url": "URL#1583602"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1604010",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "150/7817",
+                                    "text": "Ákos Hajdu"
+                                },
+                                {
+                                    "@pid": "56/2451",
+                                    "text": "Dejan Jovanovic"
+                                }
+                            ]
+                        },
+                        "title": "SMT-Friendly Formalization of the Solidity Memory Model.",
+                        "venue": "CoRR",
+                        "volume": "abs/2001.03256",
+                        "year": "2020",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2001-03256",
+                        "ee": "https://arxiv.org/abs/2001.03256",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2001-03256"
+                    },
+                    "url": "URL#1604010"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1608147",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "135/9609",
+                                    "text": "Pedro Antonino"
+                                },
+                                {
+                                    "@pid": "r/AWRoscoe",
+                                    "text": "A. W. Roscoe 0001"
+                                }
+                            ]
+                        },
+                        "title": "Formalising and verifying smart contracts with Solidifier: a bounded model checker for Solidity.",
+                        "venue": "CoRR",
+                        "volume": "abs/2002.02710",
+                        "year": "2020",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2002-02710",
+                        "ee": "https://arxiv.org/abs/2002.02710",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2002-02710"
+                    },
+                    "url": "URL#1608147"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1615221",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "261/3403",
+                                    "text": "Mudabbir Kaleem"
+                                },
+                                {
+                                    "@pid": "54/10042",
+                                    "text": "Aron Laszka"
+                                }
+                            ]
+                        },
+                        "title": "Vyper: A Security Comparison with Solidity Based on Common Vulnerabilities.",
+                        "venue": "CoRR",
+                        "volume": "abs/2003.07435",
+                        "year": "2020",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2003-07435",
+                        "ee": "https://arxiv.org/abs/2003.07435",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2003-07435"
+                    },
+                    "url": "URL#1615221"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1621215",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "263/3403",
+                                    "text": "Tai D. Nguyen"
+                                },
+                                {
+                                    "@pid": "152/4678",
+                                    "text": "Long H. Pham"
+                                },
+                                {
+                                    "@pid": "s/JunSun1",
+                                    "text": "Jun Sun 0001"
+                                },
+                                {
+                                    "@pid": "77/1513-1",
+                                    "text": "Yun Lin 0001"
+                                },
+                                {
+                                    "@pid": "64/8605-1",
+                                    "text": "Quang Tran Minh 0001"
+                                }
+                            ]
+                        },
+                        "title": "sFuzz: An Efficient Adaptive Fuzzer for Solidity Smart Contracts.",
+                        "venue": "CoRR",
+                        "volume": "abs/2004.08563",
+                        "year": "2020",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2004-08563",
+                        "ee": "https://arxiv.org/abs/2004.08563",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2004-08563"
+                    },
+                    "url": "URL#1621215"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1624361",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "98/960",
+                                    "text": "Jian Zhu"
+                                },
+                                {
+                                    "@pid": "57/6633-4",
+                                    "text": "Kai Hu 0004"
+                                },
+                                {
+                                    "@pid": "60/599",
+                                    "text": "Mamoun Filali"
+                                },
+                                {
+                                    "@pid": "97/1837",
+                                    "text": "Jean-Paul Bodeveix"
+                                },
+                                {
+                                    "@pid": "46/4798",
+                                    "text": "Jean-Pierre Talpin"
+                                }
+                            ]
+                        },
+                        "title": "Formal Verification of Solidity contracts in Event-B.",
+                        "venue": "CoRR",
+                        "volume": "abs/2005.01261",
+                        "year": "2020",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2005-01261",
+                        "ee": "https://arxiv.org/abs/2005.01261",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2005-01261"
+                    },
+                    "url": "URL#1624361"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1627904",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "150/7817",
+                                    "text": "Ákos Hajdu"
+                                },
+                                {
+                                    "@pid": "56/2451",
+                                    "text": "Dejan Jovanovic"
+                                },
+                                {
+                                    "@pid": "21/4435",
+                                    "text": "Gabriela F. Ciocarlie"
+                                }
+                            ]
+                        },
+                        "title": "Formal Specification and Verification of Solidity Contracts with Events.",
+                        "venue": "CoRR",
+                        "volume": "abs/2005.10382",
+                        "year": "2020",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2005-10382",
+                        "ee": "https://arxiv.org/abs/2005.10382",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2005-10382"
+                    },
+                    "url": "URL#1627904"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1638461",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "f/JoaoFFerreira",
+                                    "text": "João F. Ferreira 0001"
+                                },
+                                {
+                                    "@pid": "30/2478-3",
+                                    "text": "Pedro Cruz 0003"
+                                },
+                                {
+                                    "@pid": "163/2121",
+                                    "text": "Thomas Durieux"
+                                },
+                                {
+                                    "@pid": "00/6243",
+                                    "text": "Rui Abreu 0001"
+                                }
+                            ]
+                        },
+                        "title": "SmartBugs: A Framework to Analyze Solidity Smart Contracts.",
+                        "venue": "CoRR",
+                        "volume": "abs/2007.04771",
+                        "year": "2020",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2007-04771",
+                        "ee": "https://arxiv.org/abs/2007.04771",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2007-04771"
+                    },
+                    "url": "URL#1638461"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1645195",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "63/4434",
+                                    "text": "Gerardo Canfora"
+                                },
+                                {
+                                    "@pid": "171/5109",
+                                    "text": "Andrea Di Sorbo"
+                                },
+                                {
+                                    "@pid": "263/6437",
+                                    "text": "Sonia Laudanna"
+                                },
+                                {
+                                    "@pid": "272/5371",
+                                    "text": "Anna Vacca"
+                                },
+                                {
+                                    "@pid": "38/2506",
+                                    "text": "Corrado Aaron Visaggio"
+                                }
+                            ]
+                        },
+                        "title": "GasMet: Profiling Gas Leaks in the Deployment of Solidity Smart Contracts.",
+                        "venue": "CoRR",
+                        "volume": "abs/2008.05449",
+                        "year": "2020",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2008-05449",
+                        "ee": "https://arxiv.org/abs/2008.05449",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2008-05449"
+                    },
+                    "url": "URL#1645195"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1674681",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "244/9981",
+                                    "text": "Stelios Daveas"
+                                },
+                                {
+                                    "@pid": "251/1470",
+                                    "text": "Kostis Karantias"
+                                },
+                                {
+                                    "@pid": "47/3682",
+                                    "text": "Aggelos Kiayias"
+                                },
+                                {
+                                    "@pid": "197/1222",
+                                    "text": "Dionysis Zindros"
+                                }
+                            ]
+                        },
+                        "title": "A Gas-Efficient Superlight Bitcoin Client in Solidity.",
+                        "venue": "IACR Cryptol. ePrint Arch.",
+                        "volume": "2020",
+                        "pages": "927",
+                        "year": "2020",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/iacr/DaveasKKZ20",
+                        "ee": "https://eprint.iacr.org/2020/927",
+                        "url": "https://dblp.org/rec/journals/iacr/DaveasKKZ20"
+                    },
+                    "url": "URL#1674681"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1857853",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "85/6436-2",
+                                    "text": "Chao Peng 0002"
+                                },
+                                {
+                                    "@pid": "256/1970",
+                                    "text": "Sefa Akca"
+                                },
+                                {
+                                    "@pid": "33/3526",
+                                    "text": "Ajitha Rajan"
+                                }
+                            ]
+                        },
+                        "title": "SIF: A Framework for Solidity Contract Instrumentation and Analysis.",
+                        "venue": "APSEC",
+                        "pages": "466-473",
+                        "year": "2019",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/apsec/PengAR19",
+                        "doi": "10.1109/APSEC48747.2019.00069",
+                        "ee": "https://doi.org/10.1109/APSEC48747.2019.00069",
+                        "url": "https://dblp.org/rec/conf/apsec/PengAR19"
+                    },
+                    "url": "URL#1857853"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1865712",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "224/1605",
+                                    "text": "Patrick Chapman"
+                                },
+                                {
+                                    "@pid": "11/5481",
+                                    "text": "Dianxiang Xu"
+                                },
+                                {
+                                    "@pid": "17/2104",
+                                    "text": "Lin Deng"
+                                },
+                                {
+                                    "@pid": "73/2410",
+                                    "text": "Yin Xiong"
+                                }
+                            ]
+                        },
+                        "title": "Deviant: A Mutation Testing Tool for Solidity Smart Contracts.",
+                        "venue": "Blockchain",
+                        "pages": "319-324",
+                        "year": "2019",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/blockchain2/ChapmanXDX19",
+                        "doi": "10.1109/BLOCKCHAIN.2019.00050",
+                        "ee": "https://doi.org/10.1109/Blockchain.2019.00050",
+                        "url": "https://dblp.org/rec/conf/blockchain2/ChapmanXDX19"
+                    },
+                    "url": "URL#1865712"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1887738",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "246/3279",
+                                    "text": "Chien-Che Hung"
+                                },
+                                {
+                                    "@pid": "63/1361",
+                                    "text": "Kung Chen"
+                                },
+                                {
+                                    "@pid": "48/112",
+                                    "text": "Chun-Feng Liao"
+                                }
+                            ]
+                        },
+                        "title": "Modularizing Cross-Cutting Concerns with Aspect-Oriented Extensions for Solidity.",
+                        "venue": "DAPPCON",
+                        "pages": "176-181",
+                        "year": "2019",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dappcon/HungCL19",
+                        "doi": "10.1109/DAPPCON.2019.00033",
+                        "ee": "https://doi.org/10.1109/DAPPCON.2019.00033",
+                        "url": "https://dblp.org/rec/conf/dappcon/HungCL19"
+                    },
+                    "url": "URL#1887738"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1898652",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "58/6881",
+                                    "text": "Massimo Bartoletti"
+                                },
+                                {
+                                    "@pid": "00/10043",
+                                    "text": "Letterio Galletta"
+                                },
+                                {
+                                    "@pid": "154/0136-1",
+                                    "text": "Maurizio Murgia 0001"
+                                }
+                            ]
+                        },
+                        "title": "A Minimal Core Calculus for Solidity Contracts.",
+                        "venue": "DPM/CBT@ESORICS",
+                        "pages": "233-243",
+                        "year": "2019",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/esorics/BartolettiGM19",
+                        "doi": "10.1007/978-3-030-31500-9_15",
+                        "ee": "https://doi.org/10.1007/978-3-030-31500-9_15",
+                        "url": "https://dblp.org/rec/conf/esorics/BartolettiGM19"
+                    },
+                    "url": "URL#1898652"
+                },
+                {
+                    "@score": "1",
+                    "@id": "1903030",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "35/2404",
+                                    "text": "Silvia Crafa"
+                                },
+                                {
+                                    "@pid": "213/9786",
+                                    "text": "Matteo Di Pirro"
+                                },
+                                {
+                                    "@pid": "z/EZucca",
+                                    "text": "Elena Zucca"
+                                }
+                            ]
+                        },
+                        "title": "Is Solidity Solid Enough?",
+                        "venue": "Financial Cryptography Workshops",
+                        "pages": "138-153",
+                        "year": "2019",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/fc/CrafaPZ19",
+                        "doi": "10.1007/978-3-030-43725-1_11",
+                        "ee": "https://doi.org/10.1007/978-3-030-43725-1_11",
+                        "url": "https://dblp.org/rec/conf/fc/CrafaPZ19"
+                    },
+                    "url": "URL#1903030"
+                },
+                {
+                    "@score": "1",
+                    "@id": "2008928",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "97/10392",
+                                    "text": "Debasis Bhattacharya"
+                                },
+                                {
+                                    "@pid": "185/9563",
+                                    "text": "Mario Canul"
+                                },
+                                {
+                                    "@pid": "185/9272",
+                                    "text": "Saxon Knight"
+                                },
+                                {
+                                    "@pid": "98/5300",
+                                    "text": "Mohammad Q. Azhar"
+                                },
+                                {
+                                    "@pid": "236/5361",
+                                    "text": "Rajiv Malkan"
+                                }
+                            ]
+                        },
+                        "title": "Programming Smart Contracts in Ethereum Blockchain using Solidity.",
+                        "venue": "SIGCSE",
+                        "pages": "1236",
+                        "year": "2019",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/sigcse/BhattacharyaCKA20",
+                        "doi": "10.1145/3287324.3287542",
+                        "ee": "https://doi.org/10.1145/3287324.3287542",
+                        "url": "https://dblp.org/rec/conf/sigcse/BhattacharyaCKA20"
+                    },
+                    "url": "URL#2008928"
+                },
+                {
+                    "@score": "1",
+                    "@id": "2023338",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "150/7817",
+                                    "text": "Ákos Hajdu"
+                                },
+                                {
+                                    "@pid": "56/2451",
+                                    "text": "Dejan Jovanovic"
+                                }
+                            ]
+                        },
+                        "title": "solc-verify: A Modular Verifier for Solidity Smart Contracts.",
+                        "venue": "VSTTE",
+                        "pages": "161-179",
+                        "year": "2019",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/vstte/HajduJ19",
+                        "doi": "10.1007/978-3-030-41600-3_11",
+                        "ee": "https://doi.org/10.1007/978-3-030-41600-3_11",
+                        "url": "https://dblp.org/rec/conf/vstte/HajduJ19"
+                    },
+                    "url": "URL#2023338"
+                },
+                {
+                    "@score": "1",
+                    "@id": "2053123",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "85/6436-2",
+                                    "text": "Chao Peng 0002"
+                                },
+                                {
+                                    "@pid": "33/3526",
+                                    "text": "Ajitha Rajan"
+                                }
+                            ]
+                        },
+                        "title": "SIF: A Framework for Solidity Code Instrumentation and Analysis.",
+                        "venue": "CoRR",
+                        "volume": "abs/1905.01659",
+                        "year": "2019",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-1905-01659",
+                        "ee": "http://arxiv.org/abs/1905.01659",
+                        "url": "https://dblp.org/rec/journals/corr/abs-1905-01659"
+                    },
+                    "url": "URL#2053123"
+                },
+                {
+                    "@score": "1",
+                    "@id": "2063397",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "35/2404",
+                                    "text": "Silvia Crafa"
+                                },
+                                {
+                                    "@pid": "213/9786",
+                                    "text": "Matteo Di Pirro"
+                                }
+                            ]
+                        },
+                        "title": "Solidity 0.5: when typed does not mean type safe.",
+                        "venue": "CoRR",
+                        "volume": "abs/1907.02952",
+                        "year": "2019",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-1907-02952",
+                        "ee": "http://arxiv.org/abs/1907.02952",
+                        "url": "https://dblp.org/rec/journals/corr/abs-1907-02952"
+                    },
+                    "url": "URL#2063397"
+                },
+                {
+                    "@score": "1",
+                    "@id": "2063864",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "150/7817",
+                                    "text": "Ákos Hajdu"
+                                },
+                                {
+                                    "@pid": "56/2451",
+                                    "text": "Dejan Jovanovic"
+                                }
+                            ]
+                        },
+                        "title": "solc-verify: A Modular Verifier for Solidity Smart Contracts.",
+                        "venue": "CoRR",
+                        "volume": "abs/1907.04262",
+                        "year": "2019",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-1907-04262",
+                        "ee": "http://arxiv.org/abs/1907.04262",
+                        "url": "https://dblp.org/rec/journals/corr/abs-1907-04262"
+                    },
+                    "url": "URL#2063864"
+                },
+                {
+                    "@score": "1",
+                    "@id": "2068042",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "58/6881",
+                                    "text": "Massimo Bartoletti"
+                                },
+                                {
+                                    "@pid": "00/10043",
+                                    "text": "Letterio Galletta"
+                                },
+                                {
+                                    "@pid": "154/0136-1",
+                                    "text": "Maurizio Murgia 0001"
+                                }
+                            ]
+                        },
+                        "title": "A minimal core calculus for Solidity contracts.",
+                        "venue": "CoRR",
+                        "volume": "abs/1908.02709",
+                        "year": "2019",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-1908-02709",
+                        "ee": "http://arxiv.org/abs/1908.02709",
+                        "url": "https://dblp.org/rec/journals/corr/abs-1908-02709"
+                    },
+                    "url": "URL#2068042"
+                },
+                {
+                    "@score": "1",
+                    "@id": "2085462",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "84/6775",
+                                    "text": "Pengcheng Zhang"
+                                },
+                                {
+                                    "@pid": "71/1116",
+                                    "text": "Feng Xiao"
+                                },
+                                {
+                                    "@pid": "53/1565",
+                                    "text": "Xiapu Luo"
+                                }
+                            ]
+                        },
+                        "title": "SolidityCheck : Quickly Detecting Smart Contract Problems Through Regular Expressions.",
+                        "venue": "CoRR",
+                        "volume": "abs/1911.09425",
+                        "year": "2019",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-1911-09425",
+                        "ee": "http://arxiv.org/abs/1911.09425",
+                        "url": "https://dblp.org/rec/journals/corr/abs-1911-09425"
+                    },
+                    "url": "URL#2085462"
+                },
+                {
+                    "@score": "1",
+                    "@id": "2184464",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "99/5712",
+                                    "text": "Gunter Fuchs"
+                                },
+                                {
+                                    "@pid": "77/2571",
+                                    "text": "Ralf Schindler"
+                                }
+                            ]
+                        },
+                        "title": "The Solidity and Nonsolidity of initial Segments of the Core Model.",
+                        "venue": "J. Symb. Log.",
+                        "volume": "83",
+                        "number": "3",
+                        "pages": "920-938",
+                        "year": "2018",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/jsyml/FuchsS18",
+                        "doi": "10.1017/JSL.2018.45",
+                        "ee": "https://doi.org/10.1017/jsl.2018.45",
+                        "url": "https://dblp.org/rec/journals/jsyml/FuchsS18"
+                    },
+                    "url": "URL#2184464"
+                },
+                {
+                    "@score": "1",
+                    "@id": "2335234",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "33/1061",
+                                "text": "Péter Hegedüs"
+                            }
+                        },
+                        "title": "Towards Analyzing the Complexity Landscape of Solidity Based Ethereum Smart Contracts.",
+                        "venue": "WETSEB@ICSE",
+                        "pages": "35-39",
+                        "year": "2018",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icse/Hegedus18",
+                        "doi": "10.1145/3194113.3194119",
+                        "ee": "https://doi.org/10.1145/3194113.3194119",
+                        "url": "https://dblp.org/rec/conf/icse/Hegedus18"
+                    },
+                    "url": "URL#2335234"
+                },
+                {
+                    "@score": "1",
+                    "@id": "2359315",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "138/6934",
+                                    "text": "Leonardo Alt"
+                                },
+                                {
+                                    "@pid": "73/336",
+                                    "text": "Christian Reitwießner"
+                                }
+                            ]
+                        },
+                        "title": "SMT-Based Verification of Solidity Smart Contracts.",
+                        "venue": "ISoLA",
+                        "pages": "376-388",
+                        "year": "2018",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/isola/AltR18",
+                        "doi": "10.1007/978-3-030-03427-6_28",
+                        "ee": "https://doi.org/10.1007/978-3-030-03427-6_28",
+                        "url": "https://dblp.org/rec/conf/isola/AltR18"
+                    },
+                    "url": "URL#2359315"
+                },
+                {
+                    "@score": "1",
+                    "@id": "2372843",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "232/1302",
+                                    "text": "Muhammad Ahmad Zafar"
+                                },
+                                {
+                                    "@pid": "45/9126",
+                                    "text": "Falak Sher"
+                                },
+                                {
+                                    "@pid": "63/5600",
+                                    "text": "Muhammad Umar Janjua"
+                                },
+                                {
+                                    "@pid": "25/1768",
+                                    "text": "Salman Baset"
+                                }
+                            ]
+                        },
+                        "title": "Sol2js: Translating Solidity Contracts into Javascript for Hyperledger Fabric.",
+                        "venue": "SERIAL@Middleware",
+                        "pages": "19-24",
+                        "year": "2018",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/middleware/ZafarSJB18",
+                        "doi": "10.1145/3284764.3284768",
+                        "ee": "https://doi.org/10.1145/3284764.3284768",
+                        "url": "https://dblp.org/rec/conf/middleware/ZafarSJB18"
+                    },
+                    "url": "URL#2372843"
+                },
+                {
+                    "@score": "1",
+                    "@id": "2410587",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "26/5552-1",
+                                "text": "Jakub Zakrzewski 0001"
+                            }
+                        },
+                        "title": "Towards Verification of Ethereum Smart Contracts: A Formalization of Core of Solidity.",
+                        "venue": "VSTTE",
+                        "pages": "229-247",
+                        "year": "2018",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/vstte/Zakrzewski18",
+                        "doi": "10.1007/978-3-030-03592-1_13",
+                        "ee": "https://doi.org/10.1007/978-3-030-03592-1_13",
+                        "url": "https://dblp.org/rec/conf/vstte/Zakrzewski18"
+                    },
+                    "url": "URL#2410587"
+                },
+                {
+                    "@score": "1",
+                    "@id": "2412840",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "217/8577",
+                                    "text": "Santiago Bragagnolo"
+                                },
+                                {
+                                    "@pid": "18/10723",
+                                    "text": "Henrique Rocha"
+                                },
+                                {
+                                    "@pid": "58/4781",
+                                    "text": "Marcus Denker"
+                                },
+                                {
+                                    "@pid": "d/SDucasse",
+                                    "text": "Stéphane Ducasse"
+                                }
+                            ]
+                        },
+                        "title": "SmartInspect: solidity smart contract inspector.",
+                        "venue": "IWBOSE@SANER",
+                        "pages": "9-18",
+                        "year": "2018",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/wcre/BragagnoloRDD18",
+                        "doi": "10.1109/IWBOSE.2018.8327566",
+                        "ee": "https://doi.org/10.1109/IWBOSE.2018.8327566",
+                        "url": "https://dblp.org/rec/conf/wcre/BragagnoloRDD18"
+                    },
+                    "url": "URL#2412840"
+                },
+                {
+                    "@score": "1",
+                    "@id": "2412928",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "217/8575",
+                                    "text": "Maximilian Wöhrer"
+                                },
+                                {
+                                    "@pid": "00/6127",
+                                    "text": "Uwe Zdun"
+                                }
+                            ]
+                        },
+                        "title": "Smart contracts: security patterns in the ethereum ecosystem and solidity.",
+                        "venue": "IWBOSE@SANER",
+                        "pages": "2-8",
+                        "year": "2018",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/wcre/WohrerZ18",
+                        "doi": "10.1109/IWBOSE.2018.8327565",
+                        "ee": "https://doi.org/10.1109/IWBOSE.2018.8327565",
+                        "url": "https://dblp.org/rec/conf/wcre/WohrerZ18"
+                    },
+                    "url": "URL#2412928"
+                },
+                {
+                    "@score": "1",
+                    "@id": "2433950",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "59/5806-7",
+                                    "text": "Zheng Yang 0007"
+                                },
+                                {
+                                    "@pid": "74/5792",
+                                    "text": "Hang Lei"
+                                }
+                            ]
+                        },
+                        "title": "Lolisa: Formal Syntax and Semantics for a Subset of the Solidity Programming Language.",
+                        "venue": "CoRR",
+                        "volume": "abs/1803.09885",
+                        "year": "2018",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-1803-09885",
+                        "ee": "http://arxiv.org/abs/1803.09885",
+                        "url": "https://dblp.org/rec/journals/corr/abs-1803-09885"
+                    },
+                    "url": "URL#2433950"
+                },
+                {
+                    "@score": "1",
+                    "@id": "2434779",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "64/8561",
+                                    "text": "Jiao Jiao"
+                                },
+                                {
+                                    "@pid": "153/5355",
+                                    "text": "Shuanglong Kan"
+                                },
+                                {
+                                    "@pid": "55/4730-1",
+                                    "text": "Shang-Wei Lin 0001"
+                                },
+                                {
+                                    "@pid": "22/111",
+                                    "text": "David Sanán"
+                                },
+                                {
+                                    "@pid": "51/3710-3",
+                                    "text": "Yang Liu 0003"
+                                },
+                                {
+                                    "@pid": "s/JunSun1",
+                                    "text": "Jun Sun 0001"
+                                }
+                            ]
+                        },
+                        "title": "Executable Operational Semantics of Solidity.",
+                        "venue": "CoRR",
+                        "volume": "abs/1804.01295",
+                        "year": "2018",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-1804-01295",
+                        "ee": "http://arxiv.org/abs/1804.01295",
+                        "url": "https://dblp.org/rec/journals/corr/abs-1804-01295"
+                    },
+                    "url": "URL#2434779"
+                },
+                {
+                    "@score": "1",
+                    "@id": "2474325",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "235/0909",
+                                "text": "Gustavo Dias Fleck"
+                            }
+                        },
+                        "title": "Numerical analysis of the solidity effects over the aerodynamic performance of a small wind turbine.",
+                        "year": "2017",
+                        "type": "Books and Theses",
+                        "access": "closed",
+                        "key": "phd/ndltd/Fleck17",
+                        "ee": "https://hdl.handle.net/10183/173195",
+                        "url": "https://dblp.org/rec/phd/ndltd/Fleck17"
+                    },
+                    "url": "URL#2474325"
+                },
+                {
+                    "@score": "1",
+                    "@id": "2719358",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "18/10723",
+                                    "text": "Henrique Rocha"
+                                },
+                                {
+                                    "@pid": "d/SDucasse",
+                                    "text": "Stéphane Ducasse"
+                                },
+                                {
+                                    "@pid": "58/4781",
+                                    "text": "Marcus Denker"
+                                },
+                                {
+                                    "@pid": "187/4470",
+                                    "text": "Jason Lecerf"
+                                }
+                            ]
+                        },
+                        "title": "Solidity Parsing Using SmaCC: Challenges and Irregularities.",
+                        "venue": "IWST",
+                        "pages": "2:1-2:9",
+                        "year": "2017",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/iwst/RochaDDL17",
+                        "doi": "10.1145/3139903.3139906",
+                        "ee": "https://doi.org/10.1145/3139903.3139906",
+                        "url": "https://dblp.org/rec/conf/iwst/RochaDDL17"
+                    },
+                    "url": "URL#2719358"
+                },
+                {
+                    "@score": "1",
+                    "@id": "2833451",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "10/1745",
+                                    "text": "Gregory L. Cherlin"
+                                },
+                                {
+                                    "@pid": "s/SaharonShelah",
+                                    "text": "Saharon Shelah"
+                                }
+                            ]
+                        },
+                        "title": "Universal graphs with a forbidden subgraph: Block path solidity.",
+                        "venue": "Comb.",
+                        "volume": "36",
+                        "number": "3",
+                        "pages": "249-264",
+                        "year": "2016",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/combinatorica/CherlinS16",
+                        "doi": "10.1007/S00493-014-3181-5",
+                        "ee": "https://doi.org/10.1007/s00493-014-3181-5",
+                        "url": "https://dblp.org/rec/journals/combinatorica/CherlinS16"
+                    },
+                    "url": "URL#2833451"
+                },
+                {
+                    "@score": "1",
+                    "@id": "3144849",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "30/202",
+                                    "text": "Xiao Sun"
+                                },
+                                {
+                                    "@pid": "29/9545",
+                                    "text": "Tongda Zhang"
+                                },
+                                {
+                                    "@pid": "99/1019",
+                                    "text": "Yueting Chai"
+                                },
+                                {
+                                    "@pid": "97/4626-18",
+                                    "text": "Yi Liu 0018"
+                                }
+                            ]
+                        },
+                        "title": "Localized Ambient Solidity Separation Algorithm Based Computer User Segmentation.",
+                        "venue": "Comput. Intell. Neurosci.",
+                        "volume": "2015",
+                        "pages": "829201:1-829201:16",
+                        "year": "2015",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/cin/SunZCL15",
+                        "doi": "10.1155/2015/829201",
+                        "ee": "https://doi.org/10.1155/2015/829201",
+                        "url": "https://dblp.org/rec/journals/cin/SunZCL15"
+                    },
+                    "url": "URL#3144849"
+                },
+                {
+                    "@score": "1",
+                    "@id": "4885916",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "39/8108",
+                                    "text": "Jichuan Shi"
+                                },
+                                {
+                                    "@pid": "24/6914-13",
+                                    "text": "Hong Zhang 0013"
+                                },
+                                {
+                                    "@pid": "19/6409",
+                                    "text": "Nilanjan Ray"
+                                }
+                            ]
+                        },
+                        "title": "Solidity based local threshold for oil sand image segmentation.",
+                        "venue": "ICIP",
+                        "pages": "2385-2388",
+                        "year": "2009",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icip/ShiZR09",
+                        "doi": "10.1109/ICIP.2009.5414517",
+                        "ee": "https://doi.org/10.1109/ICIP.2009.5414517",
+                        "url": "https://dblp.org/rec/conf/icip/ShiZR09"
+                    },
+                    "url": "URL#4885916"
+                },
+                {
+                    "@score": "1",
+                    "@id": "5393121",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "00/548",
+                                    "text": "Jianchang Qi"
+                                },
+                                {
+                                    "@pid": "s/VadimShapiro",
+                                    "text": "Vadim Shapiro"
+                                }
+                            ]
+                        },
+                        "title": "Geometric Interoperability With Epsilon Solidity.",
+                        "venue": "J. Comput. Inf. Sci. Eng.",
+                        "volume": "6",
+                        "number": "3",
+                        "pages": "213-220",
+                        "year": "2006",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/jcise/QiS06",
+                        "doi": "10.1115/1.2218367",
+                        "ee": "https://doi.org/10.1115/1.2218367",
+                        "url": "https://dblp.org/rec/journals/jcise/QiS06"
+                    },
+                    "url": "URL#5393121"
+                },
+                {
+                    "@score": "1",
+                    "@id": "5722318",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "31/4251",
+                                    "text": "Allen Hazen"
+                                },
+                                {
+                                    "@pid": "35/7020",
+                                    "text": "Lloyd Humberstone"
+                                }
+                            ]
+                        },
+                        "title": "Similarity Relations and the Preservation of Solidity.",
+                        "venue": "J. Log. Lang. Inf.",
+                        "volume": "13",
+                        "number": "1",
+                        "pages": "25-46",
+                        "year": "2004",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/jolli/HazenH04",
+                        "doi": "10.1023/A:1026132413897",
+                        "ee": "https://doi.org/10.1023/A:1026132413897",
+                        "url": "https://dblp.org/rec/journals/jolli/HazenH04"
+                    },
+                    "url": "URL#5722318"
+                }
+            ]
+        }
+    }
+}
